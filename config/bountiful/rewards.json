@@ -1,0 +1,77 @@
+[
+  {
+    "content": "minecraft:gold_nugget",
+    "unitWorth": 100,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:gold_ingot",
+    "unitWorth": 900,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:emerald",
+    "unitWorth": 900,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:golden_carrot",
+    "unitWorth": 900,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:golden_rail",
+    "unitWorth": 900,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:emerald_block",
+    "unitWorth": 2400,
+    "weight": 1
+  },
+  {
+    "content": "minecraft:golden_apple",
+    "unitWorth": 1800,
+    "weight": 10
+  },
+  {
+    "content": "minecraft:iron_sword",
+    "unitWorth": 1500,
+    "weight": 5,
+    "nbt_data": "{display:{Lore:[\"Sharper than Usual.\"]},ench:[{id:16,lvl:2}]}",
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:shield",
+    "unitWorth": 1500,
+    "weight": 5,
+    "nbt_data": "{display:{Lore:[\"Durable.\"]},ench:[{id:34,lvl:2}]}",
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:bow",
+    "unitWorth": 1300,
+    "weight": 10,
+    "nbt_data": "{ench:[{id:48,lvl:2}]}",
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:stick",
+    "unitWorth": 1250,
+    "weight": 5,
+    "nbt_data": "{display:{Lore:[\"Deterrent.\"]},ench:[{id:19,lvl:1}]}",
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  }
+]
