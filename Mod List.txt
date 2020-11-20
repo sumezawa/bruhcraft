@@ -1,0 +1,92 @@
+Libraries/Engines (and Dependencies)
+
+AutoRegLib (Quark)
+Forgelin (Forge)
+Open Terrain Generator (Biome Bundle)
+OreLib (Dynamic Surroundings)
+ThutCore (Thut's Elevators)
+______________________________________
+Mods I: Performance
+
+AttributeFix
+BetterFps
+Clumps
+FastFurnace
+FastWorkbench
+FoamFix
+NoMoreRecipeConflict
+Optifine
+Phosphor
+Surge
+
+______________________________________
+Mods II: Minecraft 2.0 Mechanics
+
+AppleSkin (Hunger Overhaul Successor)
+Bloodmoon
+Bountiful
+Brutal Zombie Siege
+Cooking For Blockheads
+Customized Dungeon Loot
+Engineers' Decor
+Engineers' Doors
+Illagers+
+Immersive Engineering
+Immersive Petroleum
+Immersive Posts
+Immersive Tech
+More Gunpowder
+Naturally Charged Creepers
+Nutrition
+Pam's Brewcraft
+Pam's Harvestcraft
+Roost
+Rough Tweaks
+Skeleton Horse Spawn
+Sound Filters
+Snowballs Freeze Mobs
+
+______________________________________
+Mods III: Cosmetics
+
+Better Advancements
+Better Caves
+Better Mineshafts
+Biome Bundle
+Catwalks 4
+Connected Textures
+Dynamic Surroundings
+Dynamic Surroundings: HUDs
+Furniture
+Macaw's Windows
+Placeable Items
+Quark
+Signpost
+Waddles
+     _o
+    //\_
+   _/\
+     /
+
+ _o
+ //\_
+_/\
+  /
+______________________________________
+Mods IV: Convenience
+
+CarryOn
+DietHopper
+Horse Tweaks
+Just Enough Items
+Just Enough HarvestCraft
+Just Enough Petroleum
+Just Enough Resources
+KleeSlabs
+Not Enough Scaffolds
+Quick Leaf Decay
+Swing Through Grass
+Uppers
+Villager Death Messages
+Wither Skeleton Tweaks
+Wetstone
